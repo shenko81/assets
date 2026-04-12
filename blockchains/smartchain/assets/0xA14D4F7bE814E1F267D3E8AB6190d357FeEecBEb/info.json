@@ -1,0 +1,24 @@
+{
+    "name": "ARDAX",
+    "type": "BEP20",
+    "symbol": "ARDAX",
+    "decimals": 18,
+    "description": "ARDAX Token assets for Trust Wallet.",
+    "website": "https://ardax.net",
+    "explorer": "https://bscscan.com/token/0xA14D4F7bE814E1F267D3E8AB6190d357FeEecBEb",
+    "status": "active",
+    "id": "0xA14D4F7bE814E1F267D3E8AB6190d357FeEecBEb",
+    "links": [
+        {
+            "name": "facebook",
+            "url": "https://www.facebook.com/airnetbgg"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/ardaxchat"
+        }
+    ],
+    "tags": [
+        "binance-smart-chain"
+    ]
+}
